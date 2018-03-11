@@ -1,0 +1,58 @@
+
+
+body {
+  margin: 0px;
+  padding: 10%;
+
+}
+
+p {
+  font-family: "open-sans", Courier, sans-serif;
+  color: #3d3b3b; 
+}
+
+.navigation { 
+    color: black;
+    background-color: pink;
+    font-size: 14pt;
+    padding: 12px 1px 20px 40px;
+
+}
+.navigation a{
+    color: purple;
+    text-decoration: none;
+  }
+
+h1{ 
+text-align: center;
+}
+.description{
+  width: 45%;
+  float: left;
+  margin: 0px;
+  padding: 5px 0px 5px 0px;
+}
+.all-sign-images img{
+  height: 50px;
+  margin: 5px;
+  text-align: center;
+}
+.all-sign-images {
+  border: 1px solid black;
+  width: 49%;
+  float: left;
+}
+
+h2{
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+
+.instruction p{
+  float: left;
+}
+
+.slect-your-sign p{
+
+}
