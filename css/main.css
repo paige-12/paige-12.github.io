@@ -26,10 +26,15 @@ p {
 h1{ 
 text-align: center;
 }
+
+.page-content{    
+  border: 1px solid black;
+
+}
 .description{
-  width: 45%;
-  float: left;
+  width: 40%;
   margin: 0px;
+  border: 1px solid black;
   padding: 5px 0px 5px 0px;
 }
 .all-sign-images img{
@@ -40,17 +45,15 @@ text-align: center;
 .all-sign-images {
   border: 1px solid black;
   width: 49%;
-  float: left;
+  margin: 0px 0px 0px 44%;
 }
 
 h2{
   width: 100%;
-  float: left;
   text-align: center;
 }
 
 .instruction p{
-  float: left;
 }
 
 .slect-your-sign p{
